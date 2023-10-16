@@ -1,3 +1,9 @@
+Hello,
+
+A few days ago, Tsoding released a video about the memcached challenge, the details of which can be found here. I got interested so this is my rendition of the challenge task(add multiplication support). 
+Multiplication is supported between two uint_64 integers, and it is up to the user to ensure the output is bound within the range of an unsigned long long integer. Thanks!
+
+
 # Memcached
 
 ## Dependencies
